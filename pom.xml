@@ -7,7 +7,7 @@
 		<version>4.0.5</version>
 	</parent>
 	<groupId>shiroya.orderEvent</groupId>
-	<artifactId>orderEvent</artifactId>
+	<artifactId>2063401CommonService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<packaging>jar</packaging>

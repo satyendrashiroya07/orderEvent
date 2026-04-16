@@ -1,4 +1,4 @@
-package productEvent.userEvent;
+package userEvent;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
