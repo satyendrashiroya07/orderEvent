@@ -1,6 +1,8 @@
-package loggingRequest;
+package shiroya.loggingRequest;
 
+import lombok.Data;
 
+@Data
 public class LoginRequest {
 
     private String userId;
@@ -9,7 +11,7 @@ public class LoginRequest {
     public String getUserId(){
         return this.userId;
     }
-    public void setUserId(String username){
+    public void setUserId(String userId){
         this.userId = userId;
     }
 

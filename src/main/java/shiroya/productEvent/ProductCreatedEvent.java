@@ -1,4 +1,4 @@
-package productEvent;
+package shiroya.productEvent;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

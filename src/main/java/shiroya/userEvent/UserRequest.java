@@ -1,4 +1,4 @@
-package userEvent;
+package shiroya.userEvent;
 
 import lombok.Data;
 

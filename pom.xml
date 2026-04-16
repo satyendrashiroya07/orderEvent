@@ -6,7 +6,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>4.0.5</version>
 	</parent>
-	<groupId>shiroya.orderEvent</groupId>
+	<groupId>shiroya</groupId>
 	<artifactId>2063401CommonService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
